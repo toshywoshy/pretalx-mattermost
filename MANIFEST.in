@@ -1,0 +1,3 @@
+recursive-include pretalx_mattermost/static *
+recursive-include pretalx_mattermost/templates *
+recursive-include pretalx_mattermost/locale *
